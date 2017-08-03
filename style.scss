@@ -27,7 +27,6 @@ body {
   margin: 0 auto;
   padding: 0 10px;
   width: 80%;
-	float: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -149,7 +148,7 @@ img {
 //
 // .masthead
 //
- .left { width: 78px; float:left; width: 20%;}
+ .left { width: 78px; float:left; width: 20%; clear: left;}
 .wrapper-masthead {
   margin-bottom: 50px;
 }
