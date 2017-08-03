@@ -22,7 +22,12 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-    .top {        position:absolute;        left:0; right:0;        height: 92px;    }
+    .top {
+	    position:absolute;
+	    left:0; 
+	    right:0;
+	    height: 92px;
+}
 
 .container {
         position: absolute;        
@@ -152,7 +157,8 @@ img {
 //
 // .masthead
 //
- .left {        position:absolute; top:92px;       left:0; bottom: 0;        width: 178px;}
+ .left {
+	 position:absolute; top:92px;       left:0; bottom: 0;        width: 178px;}
 .wrapper-masthead {
   margin-bottom: 50px;
 }
