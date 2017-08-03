@@ -23,7 +23,10 @@ body {
   color: $darkGray;
 }
 
-.container2 {}
+.container2 {  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;}
 
 .container { width: 170px; top:92px;}
 
