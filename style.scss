@@ -25,9 +25,9 @@ body {
 
 
 
-.container {position:absolute; float:right;}
+.container {position:absolute; float:right; width 80%;}
 
-    .left {position:absolute; float:left;}
+    .left {position:absolute; float:left; width 20%;}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
