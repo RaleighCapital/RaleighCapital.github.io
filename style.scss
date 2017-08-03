@@ -26,6 +26,7 @@ body {
 .container {
         position: absolute;        
 	left:178px; 
+	.wrapper-masthead:92px;
 	right:0;
 	bottom:0;
 
@@ -150,7 +151,7 @@ img {
 //
 // .masthead
 //
- .left {        position:absolute;        left:0; bottom: 0;        width: 178px;}
+ .left {        position:absolute; .wrapper-masthead:92px;       left:0; bottom: 0;        width: 178px;}
 .wrapper-masthead {
   margin-bottom: 50px;
 }
