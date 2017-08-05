@@ -30,7 +30,7 @@ body {
 
 .container {float: right; width: 80%; background-color:red; }
 
-    .left {float:left; width: 20%;}
+    .left {float:left; width: 20%; background-color:blue;}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -282,6 +282,7 @@ nav {
 }
 
 footer {
+	background-color: white;
   padding: 20px 0;
   text-align: center;
 }
