@@ -28,9 +28,10 @@ body {
   padding: 0 10px;
   width: 100%;}
 
-.container {float: right; width: 70%; background-color: red; }
+.container {width: 60%; background-color: red; }
 
     .left {float: left; width: 10%;}
+.right {float: right; width: 10%;}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
