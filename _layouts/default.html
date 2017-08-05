@@ -14,12 +14,11 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container2">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  
+  
+  <div class='wrap'>
+    <div class='head'>
+              <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -32,25 +31,19 @@
                         <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
-        </header>
-      </div>
     </div>
-    </body>
-<div class="left"> LEFT     
-  <ul>        
-    <li><a href="default.asp">Home</a></li>        
-    <li><a href="news.asp">News</a></li>        
-    <li><a href="contact.asp">Contact</a></li>        
-    <li><a href="about.asp">About</a></li>  
-  </ul>    
- </div>      
     
-    <div class="container">
-      test
-      <!--  {{ content }} -->
-  
-    </div>
-  
+    <div class='bodywrap'>
+        <div class='left'>
+        <ul>        
+         <li><a href="default.asp">Home</a></li>        
+         <li><a href="news.asp">News</a></li>        
+         <li><a href="contact.asp">Contact</a></li>        
+         <li><a href="about.asp">About</a></li>  
+       </ul> 
+      </div>
+        <div class='right'>
+        
   <div class="right"> Right     
   <ul>        
     <li><a href="default.asp">Home</a></li>        
@@ -59,6 +52,16 @@
     <li><a href="about.asp">About</a></li>  
   </ul>    
  </div> 
+      </div>
+        <div class='center'>
+            test
+      <!--  {{ content }} -->
+      </div>
+    </div>
+ </div>
+  
+
+
 
     <div class="wrapper-footer">
       <div class="container">
