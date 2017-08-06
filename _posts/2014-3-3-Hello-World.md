@@ -8,3 +8,17 @@ Next you can update your site name, avatar and other options using the _config.y
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
+
+
+---
+layout: post
+title: Second Post...Test....
+---
+
+blah text
+
+![_config.yml]({{ site.baseurl }}/images/Downtown-Raleigh-from-Western-Boulevard-Overpass-20081012.jpg)
+
+This is test.... [cnn](https://www.cnn,com) - that is cnn.
