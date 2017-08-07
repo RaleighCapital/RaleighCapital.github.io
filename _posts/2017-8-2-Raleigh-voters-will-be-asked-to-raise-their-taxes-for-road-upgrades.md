@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Raleigh voters will be asked to raise their taxes for road upgrades
