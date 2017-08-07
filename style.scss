@@ -32,7 +32,7 @@ html,body{height:100%}
 .center{margin-left:200px; overflow:scroll; overflow-x:hidden;margin-right:191px; padding: 50px 30px 50px 80px;}
 .right{position:fixed;right:0; font-family: $helveticaNeue}
 
-.left{background-color:#aaa}
+.left{background-color:#aaa; font-family: $helveticaNeue}
 .right{background-color:#ccc; font-family: $helveticaNeue}
 .center{background-color:#777}
 .head{background-color:#444}
