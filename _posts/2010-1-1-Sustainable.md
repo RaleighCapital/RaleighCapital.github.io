@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sustainable Raleigh Map
+title: Sustainable Map
 ---
 
 https://www.raleighnc.gov/business/content/ITechAdmin/Articles/GISOnlineApplications.html
